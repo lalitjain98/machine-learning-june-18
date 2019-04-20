@@ -1,0 +1,4 @@
+*.csv
+**/20_newsgroups
+**/"Twitter Project"
+"18. PCA\readme_Cifar10\data"

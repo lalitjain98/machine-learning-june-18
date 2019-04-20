@@ -1,0 +1,1 @@
+To run the code, 20_newsgroups data folder should be in same folder as the notebook file and headers_info.txt file.

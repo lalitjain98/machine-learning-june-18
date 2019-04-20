@@ -1,0 +1,2 @@
+In this project, I have tried to optimize some steps(but later introduced the log to base 2 for entropy function). 
+In information gain function, I have not calculated the actual gain value but the value that gives the best split; the function does not return the actual gain value but relative values. 
